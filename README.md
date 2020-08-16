@@ -1,5 +1,6 @@
 # SpringBoot
 这是尚硅谷的SpringBoot教程，自己过了敲了一遍代码，下面是整理的笔记和课件，用于自己学习，如有侵权请告知
+视频教程：https://www.bilibili.com/video/BV1Et411Y7tQ?p=10
 
 如果你喜欢，给个star哈~
 
